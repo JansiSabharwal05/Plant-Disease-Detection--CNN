@@ -1,0 +1,1 @@
+Plant disease detection using Convolutional Neural Networks (CNNs) is a deep learning approach that identifies and classifies plant diseases from images of leaves, stems, or fruits. CNNs are particularly effective for this task due to their ability to automatically extract relevant features from images, such as color, texture, and patterns associated with different diseases.
